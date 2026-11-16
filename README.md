@@ -82,7 +82,7 @@ These four projects share one simulated fermentation process: a chemostat with a
 
 | | Project |
 |---|---|
-| P1 | [Physics-informed neural network for fermentation kinetics](https://github.com/GHUSER/pinn-fermentation-kinetics) (this repository) |
-| P2 | [Early quality prediction with conformal intervals](https://github.com/GHUSER/fermentation-quality-forecasting) |
-| P3 | [Multimodal cross-attention for C-variant detection](https://github.com/GHUSER/multimodal-cvariant-detection) |
-| P4 | [Morphology CNN with Grad-CAM](https://github.com/GHUSER/hyphal-morphology-cnn-gradcam) |
+| P1 | [Physics-informed neural network for fermentation kinetics](https://github.com/arqam3025/pinn-fermentation-kinetics) (this repository) |
+| P2 | [Early quality prediction with conformal intervals](https://github.com/arqam3025/fermentation-quality-forecasting) |
+| P3 | [Multimodal cross-attention for C-variant detection](https://github.com/arqam3025/multimodal-cvariant-detection) |
+| P4 | [Morphology CNN with Grad-CAM](https://github.com/arqam3025/hyphal-morphology-cnn-gradcam) |
