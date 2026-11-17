@@ -5,8 +5,7 @@ batch fermentation. Can a neural network forecast the rest of the run if it is
 told the kinetics, a Monod ODE? And can it recover the kinetic parameters?
 
 > Synthetic data. Trajectories are simulated from a known Monod model, with
-> multiplicative Gaussian noise. This was built in November 2026, with AI
-> assistance, as preparation for a PhD application.
+> multiplicative Gaussian noise. This was built in November 2026 as preparation for a PhD application.
 
 ## Model
 
